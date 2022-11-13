@@ -1,0 +1,26 @@
+{
+    "LoginScreen_Welcom":"WELCOME BACK !",
+    "LoginScreen_ToKeepConnecting":"To Keep Connected with us",
+    "LoginScreen_PleaseLoginWith":"Please Login With Your Personal Details",
+    "LoginScreen_UserName":"User Name",
+    "LoginScreen_Password":"Password",
+    "LoginScreen_SIGNIN":"SIGN IN",
+    "LoginScreen_PleaseEnterUserName":"Please Enter User Name",
+    "LoginScreen_PleaseEnterPassword":"Please Enter Password",
+    "HomeScreen_Settings":"Settings",
+    "HomeScreen_Notifications":"Notifications",
+    "HomeScreen_ChangeLanguage":"Change Language",
+    "HomeScreen_Logout":"Logout",
+    "HomeScreen_FleetSettings":"Fleet Settings",
+    "HomeScreen_newSettings":"new settings",
+    "HomeScreen_notSubscribed":"not subscribed",
+    "HomeScreen_subscriber":"subscriber",
+    "HomeScreen_All":"All",
+    "HomeScreen_ar":"Ar 54545454",
+    "HomeScreen_Hamza":"Car Discretion",
+    "HomeScreen_Services":"Services",
+    "HomeScreen_serviceOnPlatform":"service on the platform",
+    "HomeScreen_trackingService":"tracking service"
+
+
+}

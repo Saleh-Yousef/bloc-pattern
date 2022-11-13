@@ -1,0 +1,28 @@
+{
+    "LoginScreen_Welcom":"! اهلا بك",
+    "LoginScreen_ToKeepConnecting":"للبقاء على اتصال معنا",
+    "LoginScreen_PleaseLoginWith":"الرجاء تسجيل الدخول ببياناتك الشخصية",
+    "LoginScreen_UserName":"اسم االمستخدم",
+    "LoginScreen_Password":"كلمة المرور",
+    "LoginScreen_SIGNIN":"تسجيل الدخول",
+    "LoginScreen_PleaseEnterUserName":"الرجاء إدخال اسم المستخدم",
+    "LoginScreen_PleaseEnterPassword":"الرجاء إدخال كلمة المرور",
+    "HomeScreen_Settings":"إعدادات",
+    "HomeScreen_Notifications":"إشعارات",
+    "HomeScreen_ChangeLanguage":"تغيير اللغة",
+    "HomeScreen_Logout":"تسجيل خروج",
+    "HomeScreen_FleetSettings":"اعدادات الاسطول",
+    "HomeScreen_newSettings":"اعدادات جديدة",
+    "HomeScreen_notSubscribed":"غير مشترك",
+    "HomeScreen_subscriber":"مشترك",
+    "HomeScreen_All":"الكل",
+    "HomeScreen_ar":"أر 54545454",
+    "HomeScreen_Hamza":"وصف السياره",
+    "HomeScreen_Services":"الخدمات",
+    "HomeScreen_serviceOnPlatform":"خدمة التوفر على المنصة",
+    "HomeScreen_trackingService":"خدمى التتبع"
+
+
+
+
+}
